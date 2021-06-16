@@ -1,2 +1,14 @@
 fastapi
 uvicorn
+
+
+## for database
+sqlalchemy
+psycopg2==2.8.6
+
+## for environment variables
+python-dotenv
+
+
+## db
+pysqlite3
